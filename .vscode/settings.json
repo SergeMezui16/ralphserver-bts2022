@@ -1,0 +1,7 @@
+{
+    "cSpell.enableFiletypes": [
+        "!css",
+        "!php"
+    ],
+    "liveServer.settings.port": 5501
+}
