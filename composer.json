@@ -1,0 +1,14 @@
+{
+    "name": "serge/ralphserver",
+    "description": "Serveur de stockage sous linux",
+    "autoload": {
+        "psr-4": {
+            "RalphServer\\": "class/",
+            "Models\\": "models/"
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "twbs/bootstrap": "5.1.3"
+    }
+}
